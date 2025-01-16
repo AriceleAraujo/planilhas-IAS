@@ -22,3 +22,4 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 Utilizei os prompts dentro da ferramenta Chatgpt, e a base de dados de uma planilha Excell e fui inserindo abas, graficos, etc.
 
 ✨ Resultados
+https://github.com/AriceleAraujo/planilhas-IAS/blob/main/desafio%20excell.xlsx
